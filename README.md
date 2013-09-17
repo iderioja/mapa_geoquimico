@@ -1,4 +1,100 @@
-mapa_geoquimico
-===============
+# [![Icono](http://www.iderioja.larioja.org/imagenes/logo_iderioja_56x70.gif)](http://www.iderioja.org)     [Mapa Geoquímico de la C.A. de La Rioja](https://github.com/iderioja/mapa_geoquimico)
 
-Estudio del Mapa Geoquímico de la Comunidad Autónoma de La Rioja (España). Geoquímica Cartografia Mapas Geodatos Geochemistry Cartography Maps Geodata 
+Este repositorio **(EN PREPARACIÓN)** contiene el resultado de los trabajos relativos al estudio del Mapa Geoquímico de la Comunidad Autónoma de La Rioja (España), consistentes en la adquisición de muestras de sedimentos de arroyos, suelos, rocas y aguas; el análisis multielemental de las muestras tomadas y el tratamiento e interpretación de los resultados analíticos.
+
+En él se recoge la información obtenida, dirigida a la clasificación de las diferentes áreas del territorio riojano, en función de sus características geológicas, metalogénicas y geoquímicas, todo ello orientado a la mejor utilización y ordenación del territorio.
+
+Se pretende con este estudio, mejorar el conocimiento del potencial minero de La Rioja además de facilitar la realización de otros estudios y diagnósticos de índole medioambiental.
+
+Desde este repositorio puedes acceder a la información geográfica relativa a la distribución de los distintos elementos (.geojson). Las capas incluyen información de concentración, así como un enlace a un mapa general de distribución de cada elemento en particular.
+
+Desde esta página también puedes consultar y descargar los resultados del estudio (.pdf). No obstante os informamos que el aceso a esta información desde el [Geovisor IDErioja](http://iderioja.larioja.org/geovisor) **(EN PREPARACIÓN)** permite acceder a otros documentos e imágenes relacionados.
+
+## Contenidos
+
+- [Portada. Índice. Introducción. Metodología de trabajo]( ftp://ftp.larioja.org/sig/tmt/t068/pdf/0000_indice_0100_introduccion_0200_metodologia_de_trabajo.pdf)
+- [Características fisiográficas y climáticas](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0300_caracteristicas_fisiograficas_y_climaticas.pdf)
+- [Características geológicas](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0400_caracteristicas_geologicas.pdf)
+- [Características metalogenéticas](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0500_caracteristicas_metalogeneticas.pdf)
+- [Geoquímica de sedimentos y suelos. Tratamiento estadístico univariante](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0600_geoquimica_de_sedimentos_y_suelos_tratamiento_estadisticos_univariante.pdf)
+ - [Distribución de Ag, Plata](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0601_distribucion_de_ag_plata.pdf)
+ - [Distribución de Al, Aluminio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0602_distribucion_de_al_aluminio.pdf)
+ - [Distribución de As, Arsénico](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0603_distribucion_de_as_arsenico.pdf)
+ - [Distribución de Au, Oro](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0604_distribucion_de_au_oro.pdf)
+ - [Distribución de Ba, Bario](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0605_distribucion_de_ba_bario.pdf)
+ - [Distribución de Be, Berilio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0606_distribucion_de_be_berilio.pdf)
+ - Distribución de Bi, Bismuto (no disponible)
+ - [Distribución de Br, Bromo](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0608_distribucion_de_br_bromo.pdf)
+ - [Distribución de Ca, Calcio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0609_distribucion_de_ca_calcio.pdf)
+ - [Distribución de Cd, Cadmio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0610_distribucion_de_cd_cadmio.pdf)
+ - [Distribución de Ce, Cerio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0611_distribucion_de_ce_cerio.pdf)
+ - [Distribución de Co, Cobalto](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0612_distribucion_de_co_cobalto.pdf)
+ - [Distribución de Cr, Cromo](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0613_distribucion_de_cr_cromo.pdf)
+ - [Distribución de Cs, Cesio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0614_distribucion_de_cs_cesio.pdf)
+ - [Distribución de Cu, Cobre](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0615_distribucion_de_cu_cobre.pdf)
+ - [Distribución de Eu, Europio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0616_distribucion_de_eu_europio.pdf)
+ - [Distribución de Fe, Hierro](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0617_distribucion_de_fe_hierro.pdf)
+ - [Distribución de Hf, Hafnio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0618_distribucion_de_hf_hafnio.pdf)
+ - Distribución de Hg, Mercurio (no disponible)
+ - Distribución de Ir, Iridio (no disponible)
+ - [Distribución de K, Potasio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0621_distribucion_de_k_potasio.pdf)
+ - [Distribución de La, Lantano](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0622_distribucion_de_la_lantano.pdf)
+ - [Distribución de Lu, Lutecio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0623_distribucion_de_lu_lutecio.pdf)
+ - [Distribución de Mg, Magnesio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0624_distribucion_de_mg_magnesio.pdf)
+ - [Distribución de Mn, Manganeso](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0625_distribucion_de_mn_manganeso.pdf)
+ - [Distribución de Mo, Molibdeno](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0626_distribucion_de_mo_molibdeno.pdf)
+ - [Distribución de Na, Sodio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0627_distribucion_de_na_sodio.pdf)
+ - [Distribución de Nd, Neodimio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0628_distribucion_de_nd_neodimio.pdf)
+ - [Distribución de Ni, Níquel](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0629_distribucion_de_ni_niquel.pdf)
+ - [Distribución de P, Fósforo](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0630_distribucion_de_p_fosforo.pdf)
+ - [Distribución de Pb, Plomo](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0631_distribucion_de_pb_plomo.pdf)
+ - [Distribución de Rb, Rubidio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0632_distribucion_de_rb_rubidio.pdf)
+ - [Distribución de S, Azufre](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0633_distribucion_de_s_azufre.pdf)
+ - [Distribución de Sb, Antimonio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0634_distribucion_de_sb_antimonio.pdf)
+ - [Distribución de Sc, Escandio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0635_distribucion_de_sc_escandio.pdf)
+ - Distribución de Se, Selenio (no disponible)
+ - [Distribución de Sm, Samario](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0637_distribucion_de_sm_samario.pdf)
+ - Distribución de Sn, Estaño (no disponible)
+ - [Distribución de Sr, Estroncio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0639_distribucion_de_sr_estroncio.pdf)
+ - [Distribución de Ta, Tántalo](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0640_distribucion_de_ta_tantalo.pdf)
+ - [Distribución de Tb, Terbio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0641_distribucion_de_tb_terbio.pdf)
+ - [Distribución de Th, Torio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0642_distribucion_de_th_torio.pdf)
+ - [Distribución de Ti, Titanio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0643_distribucion_de_ti_titanio.pdf)
+ - [Distribución de U, Uranio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0644_distribucion_de_u_uranio.pdf)
+ - [Distribución de V, Vanadio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0645_distribucion_de_va_vanadio.pdf)
+ - [Distribución de W, Wolframio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0646_distribucion_de_w_wolframio.pdf)
+ - [Distribución de Y, Itrio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0647_distribucion_de_y_itrio.pdf)
+ - [Distribución de Yb, Iterbio](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0648_distribucion_de_yb_iterbio.pdf)
+ - [Distribución de Zn, Cinc](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0649_distribucion_de_zn_cinc.pdf)
+- [Geoquímica de sedimentos y suelos. Tratamiento estadístico bivariante](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0700_geoquimica_de_sedimentos_y_suelos_tratamiento_estadistico_bivariante.pdf)
+- [Geoquímica de sedimentos. Tratamiento estadístico multivariante](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0800_geoquimica_de_sedimentos_tratamiento_estadistico_multivariante.pdf)
+ - [Distribución del componente 1. Sc- Ni-Fe-Cs-V-Cr-Co-Rb-Be-As-Sb-K--Mn-Zn-Al-U-Pb-La-Cu-Nd-Sm-Th](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0821_distribucion_del_componente_1_sc_ni_fe_cs_v_cr_co_rb_be_as_sb_k__mn_zn_al_u_pb_la_cu_nd_sm_th.pdf)
+ - [Distribución del componente 2. Ce-Sm-La-Eu-Th-Yb-Lu-Nd-Ti-Hf--U-K-Mn-Sc-Sb-Zn](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0822_distribucion_del_componente_2_ce_sm_la_eu_th_yb_lu_nd_ti_hf__u_k_mn_sc_sb_zn.pdf)
+ - [Distribución del componente 3. Sr-S-Ca-Mg--P-Br](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0823_distribucion_del_componente_3_sr_s_ca_mg__p_br.pdf)
+ - [Distribución del componente 4. Al-Y-K--Mg-P](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0824_distribucion_del_componente_4_al_y_k__mg_p.pdf)
+ - [Distribución del componente 5. Pb-Cu-Zn-P--Mn-As-Sb](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0825_distribucion_del_componente_5_pb_cu_zn_p_mn_as_sb.pdf)
+ - [Distribución del componente 6. Br--U-Tb](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0826_distribucion_del_componente_6_br__u_tb.pdf)
+ - [Distribución del componente 7. Na](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0827_distribucion_del_componente_7_na.pdf)
+- [Clasificación de las muestras en clases geoquímicas -análisis clúster-](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0830_analisis_cluster.pdf)
+ - [Anomalías de Ag por clases geoquímicas](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0841_anomalias_de_ag_por_clases_geoquimicas.pdf)
+ - [Anomalías de As por clases geoquímicas](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0842_anomalias_de_as_por_clases_geoquimicas.pdf)
+ - [Anomalías de Au por clases geoquímicas](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0843_anomalias_de_au_por_clases_geoquimicas.pdf)
+ - [Anomalías de Cu por clases geoquímicas](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0844_anomalias_de_cu_por_clases_geoquimicas.pdf)
+ - [Anomalías de Pb por clases geoquímicas](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0845_anomalias_de_pb_por_clases_geoquimicas.pdf)
+ - [Anomalías de Zn por clases geoquímicas](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0846_anomalias_de_zn_por_clases_geoquimicas.pdf)
+- [Cartografía geoquímica ambiental](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0900_cartografia_geoquimica_ambiental.pdf)
+ - [Geoquímica ambiental del As](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0901_geoquimica_ambiental_del_as.pdf)
+ - [Geoquímica ambiental del Ba](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0902_geoquimica_ambiental_del_ba.pdf)
+ - [Geoquímica ambiental del Cd](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0903_geoquimica_ambiental_del_cd.pdf)
+ - [Geoquímica ambiental del Co](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0904_geoquimica_ambiental_del_co.pdf)
+ - [Geoquímica ambiental del Cr](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0905_geoquimica_ambiental_del_cr.pdf)
+ - [Geoquímica ambiental del Cu](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0906_geoquimica_ambiental_del_cu.pdf)
+ - [Geoquímica ambiental del Ni](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0907_geoquimica_ambiental_del_ni.pdf)
+ - [Geoquímica ambiental del Pb](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0908_geoquimica_ambiental_del_pb.pdf)
+ - [Geoquímica ambiental del Zn](ftp://ftp.larioja.org/sig/tmt/t068/pdf/0909_geoquimica_ambiental_del_zn.pdf)
+- [Geoquímica de rocas](ftp://ftp.larioja.org/sig/tmt/t068/pdf/1000_geoquimica_de_rocas.pdf)
+- [Geoquímica de aguas](ftp://ftp.larioja.org/sig/tmt/t068/pdf/1100_geoquimica_de_aguas.pdf)
+- [Conclusiones](ftp://ftp.larioja.org/sig/tmt/t068/pdf/1200_conclusiones.pdf)
+
+
+Estudio realizado por: CRN Consultores independientes en gestión de recursos naturales S.A. Diciembre de 2006.
