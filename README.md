@@ -8,7 +8,7 @@ Se pretende con este estudio, mejorar el conocimiento del potencial minero de La
 
 Desde este repositorio puedes acceder a la información geográfica relativa a la distribución de los distintos elementos (.geojson). Las capas incluyen información de concentración, así como un enlace a un mapa general de distribución de cada elemento en particular.
 
-Desde esta página también puedes consultar y descargar los resultados del estudio (.pdf). No obstante os informamos que el aceso a esta información desde el [Geovisor IDErioja](http://www.iderioja.larioja.org/geovisor) **(EN PREPARACIÓN)** permite acceder a otros documentos e imágenes relacionados.
+Desde esta página también puedes consultar y descargar los resultados del estudio en formato pdf. No obstante os informamos que la  consulta de esta información desde el [Geovisor IDErioja](http://www.iderioja.larioja.org/geovisor) **(EN PREPARACIÓN)** permite acceder a otros documentos e imágenes relacionados.
 
 ## Contenidos
 
