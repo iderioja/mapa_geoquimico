@@ -1,4 +1,4 @@
-# [![Icono](http://www.iderioja.larioja.org/imagenes/logo_iderioja_56x70.gif)](http://www.iderioja.org)     [Mapa Geoquímico de la C.A. de La Rioja](https://github.com/iderioja/mapa_geoquimico)
+## [![Icono](http://www.iderioja.larioja.org/imagenes/logo_iderioja_56x70.gif)](http://www.iderioja.org)     [Mapa Geoquímico de la C.A. de La Rioja](https://github.com/iderioja/mapa_geoquimico)
 
 Este repositorio contiene el resultado de los trabajos relativos al estudio del Mapa Geoquímico de la Comunidad Autónoma de La Rioja (España), consistentes en la adquisición de muestras de sedimentos de arroyos, suelos, rocas y aguas; el análisis multielemental de las muestras tomadas y el tratamiento e interpretación de los resultados analíticos.
 
@@ -10,7 +10,7 @@ Desde este repositorio puedes acceder a la información geográfica relativa a l
 
 Desde esta página también puedes consultar y descargar los resultados del estudio en formato pdf.
 
-## Contenidos
+#### Contenidos
 
 - [Portada. Índice. Introducción. Metodología de trabajo](http://www.larioja.org/npRioja/components/ged/tools/dlg/dlg_opendocument.jsp?Download=false&IdDoc=458862&IdGed=25264)
 - [Características fisiográficas y climáticas](http://www.larioja.org/npRioja/components/ged/tools/dlg/dlg_opendocument.jsp?Download=false&IdDoc=458863&IdGed=25264)
